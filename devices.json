@@ -70591,6 +70591,12 @@
   },
   {
     "manufacturer": "OnePlus",
+    "market_name": "3",
+    "codename": "OnePlus3",
+    "model": "ONEPLUS A3003"
+  },
+  {
+    "manufacturer": "OnePlus",
     "market_name": "OnePlus3T",
     "codename": "OnePlus3T",
     "model": "ONEPLUS A3000"

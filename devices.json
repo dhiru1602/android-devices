@@ -109585,6 +109585,12 @@
   },
   {
     "manufacturer": "Vivo",
+    "market_name": "V5s",
+    "codename": "bbk6750_66_n",
+    "model": "vivo 1713"
+  },
+  {
+    "manufacturer": "Vivo",
     "market_name": "1609",
     "codename": "1609",
     "model": "vivo 1609"
